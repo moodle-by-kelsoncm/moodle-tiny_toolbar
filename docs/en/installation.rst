@@ -10,7 +10,7 @@ Requirements
 From a ZIP file
 ---------------
 
-1. Download ``tiny_toolbar-<version>.zip`` from the `releases <https://github.com/moodle-by-kelsoncm/tiny_toolbar/releases>`_.
+1. Download ``tiny_toolbar-<version>.zip`` from the `releases <https://github.com/moodle-by-kelsoncm/moodle-tiny_toolbar/releases>`_.
 2. Go to *Site administration > Plugins > Install plugins*, upload the ZIP and follow the steps.
 3. Finish the upgrade at *Site administration > Notifications*.
 
@@ -21,7 +21,7 @@ Copy the repository to ``lib/editor/tiny/plugins/toolbar`` (``public/lib/editor/
 
 .. code-block:: bash
 
-   git clone https://github.com/moodle-by-kelsoncm/tiny_toolbar.git public/lib/editor/tiny/plugins/toolbar
+   git clone https://github.com/moodle-by-kelsoncm/moodle-tiny_toolbar.git public/lib/editor/tiny/plugins/toolbar
 
 After installing, the editor keeps the Moodle default until you choose another layout (see :doc:`configuration`).
 
