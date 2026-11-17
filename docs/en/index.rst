@@ -36,4 +36,4 @@ Main features
 Links
 -----
 
-* Source code and issues: https://github.com/moodle-by-kelsoncm/tiny_toolbar
+* Source code and issues: https://github.com/moodle-by-kelsoncm/moodle-tiny_toolbar

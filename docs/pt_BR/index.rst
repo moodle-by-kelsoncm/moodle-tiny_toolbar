@@ -36,4 +36,4 @@ Principais recursos
 Links
 -----
 
-* Código-fonte e issues: https://github.com/moodle-by-kelsoncm/tiny_toolbar
+* Código-fonte e issues: https://github.com/moodle-by-kelsoncm/moodle-tiny_toolbar

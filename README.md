@@ -2,7 +2,7 @@
 
 [English](#english) · [Português (Brasil)](#português-brasil)
 
-Documentation / Documentação: <https://moodle-by-kelsoncm.github.io/tiny_toolbar/>
+Documentation / Documentação: <https://moodle-by-kelsoncm.github.io/moodle-tiny_toolbar/>
 
 ## English
 
@@ -23,7 +23,7 @@ Instalação: copie este repositório para `lib/editor/tiny/plugins/toolbar` (`p
 
 ## Support and privacy / Suporte e privacidade
 
-- Issue tracker / Rastreador de issues: <https://github.com/moodle-by-kelsoncm/tiny_toolbar/issues>
+- Issue tracker / Rastreador de issues: <https://github.com/moodle-by-kelsoncm/moodle-tiny_toolbar/issues>
 - Privacy / Privacidade: the plugin stores only site settings; no personal data and nothing leaves Moodle / o plugin guarda só configurações do site; nenhum dado pessoal e nada sai do Moodle.
 - Translations / Traduções: only English is shipped; other languages go through AMOS / o pacote traz só inglês; outros idiomas via AMOS.
 
