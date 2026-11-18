@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 - 2026-11-18
+
+### Changed
+- README and documentation point to the repository renamed to `moodle-by-kelsoncm/moodle-tiny_toolbar`.
+
 ## 1.0.0 - 2026-10-31
 
 First release as the TinyMCE subplugin `tiny_toolbar` (formerly `local_tinytoolbar`, component `tool_tinycustomizer`, which never changed the editor).

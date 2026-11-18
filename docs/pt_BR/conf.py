@@ -3,7 +3,7 @@ import moodle_docs_theme
 project = "moodle-tiny_toolbar"
 copyright = "2026 onwards, Kelson da Costa Medeiros"
 author = "Kelson da Costa Medeiros"
-release = "1.0.0"
+release = "1.0.1"
 
 extensions = [
     "sphinx.ext.githubpages",
