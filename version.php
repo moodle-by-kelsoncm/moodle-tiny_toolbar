@@ -25,8 +25,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'tiny_toolbar';
-$plugin->version = 2026111800;
+$plugin->version = 2026112100;
 $plugin->requires = 2024100700;
 $plugin->supported = [405, 503];
-$plugin->release = '1.0.1';
+$plugin->release = '1.0.2';
 $plugin->maturity = MATURITY_BETA;
