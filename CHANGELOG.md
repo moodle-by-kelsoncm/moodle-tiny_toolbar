@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.2 - 2026-11-21
+
+### Changed
+- The release ZIP no longer includes `docs/` (the documentation and its screenshots are published on the documentation site), halving the package size.
+- New version number to resubmit the plugin to the Moodle Marketplace, whose automated tests failed on 1.0.1 for an internal reason.
+
 ## 1.0.1 - 2026-11-18
 
 ### Changed
